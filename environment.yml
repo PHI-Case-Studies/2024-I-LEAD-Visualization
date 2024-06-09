@@ -1,0 +1,7 @@
+name: basic
+channels:
+  - conda-forge
+dependencies:
+  - folium
+  - dtale
+  - pandas
