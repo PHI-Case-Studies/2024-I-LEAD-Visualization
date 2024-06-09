@@ -5,5 +5,3 @@ This repository was created to support implementation of the Intergovernmental L
 ### Interact with the Case Study
 
 [![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/PHI-Case-Studies/2024-I-LEAD-Visualization/master)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PHI-Case-Studies/2024-I-LEAD-Visualization/master/)
