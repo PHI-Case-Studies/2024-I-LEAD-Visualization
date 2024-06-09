@@ -1,0 +1,27 @@
+capital_name,country_name,location_lat,location_lon,lat_offset,lon_offset,repeat,repeat_color
+Atlanta, United States,33.74796002,-84.39212799,-12,10,no,black
+Santo Domingo, Dominican Republic,18.55759856,-69.90531682,-12,10,no,blue
+Georgetown, Guyana,6.918482622,-58.14556905,-12,10,no,blue
+Abuja, Nigeria,9.144721845,7.54410372,-12,10,yes,red
+Yaounde, Cameroon,3.987443024,11.6582419,-12,10,no,blue
+Kampala, Uganda,0.468074918,32.63649497,-10,10,no,blue
+Nairobi, Kenya,-1.202389436,37.03029341,-12,10,yes,red
+Addis Ababa, Ethiopia,9.285919336,39.06346956,-12,10,yes,red
+Luanda, Angola,-8.712473072,13.28913592,20,28,no,blue
+Lusaka, Zambia,-15.2689775,28.61305536,-12,10,yes,red
+Gaborone, Botswana,-24.53897425,26.09667833,5,24,yes,red
+Pretoria, South Africa,-25.68335284,28.34330876,30,-5,yes,red
+Bangkok, Thailand,14.363821,100.9610325,-12,10,yes,red
+Port Moresby, Papua New Guinea,-9.184029171,148.0391279,-12,10,no,blue
+Windhoek, Namibia,-22.72511396,17.28002951,25,28,no,blue
+Lilongwe,Malawi,-13.9868379,33.7657833,-10,10,no,blue
+Addis Ababa,Africa CDC,9.285919336,39.06346956,-12,20,no,blue
+Dodoma,Tanzania,-6.181137922,35.7456836,-10,10,no,blue
+Chisinau,Moldova,47.01271599,28.85851755,-10,10,no,blue
+Tbilisi,Georgia,41.69745077,44.79989478,-10,10,no,blue
+Tashkent,Uzbekistan,41.29856181,69.24262863,-10,10,no,blue
+Manila,Philippines,14.60347354,120.9930931,-10,10,no,green
+Hanoi,Vietnam,21.02780904,105.8321854,-10,10,no,green
+Kigali,Rwanda,-1.944523041,30.06715979,-10,10,no,green
+Mbabane,Eswatini,-26.32589537,31.14379287,-10,10,no,green
+Accra,Ghana,7.9528,-1.0307,-10,10,no,green
