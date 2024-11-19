@@ -4,4 +4,4 @@ This repository was created to support implementation of the Intergovernmental L
 
 ### Interact with the Case Study
 
-[![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/PHI-Case-Studies/2024-I-LEAD-Visualization/master)
+[![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/PHI-Case-Studies/2024-I-LEAD-Visualization/main)
