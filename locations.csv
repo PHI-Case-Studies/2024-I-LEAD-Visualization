@@ -1,37 +1,37 @@
-,capital_name,country_name,country_code,location_lat,location_lon,lat_offset,lon_offset,repeat,repeat_color
-0,Atlanta,United States,US,33.74796002,-84.39212799,-12,10,no,black
-1,Santo Domingo,Dominican Republic,DO,18.55759856,-69.90531682,-12,10,no,blue
-2,Georgetown,Guyana,GY,6.918482622,-58.14556905,-12,10,no,blue
-3,Abuja,Nigeria,NG,9.144721845,7.54410372,-12,10,yes,red
-4,Yaounde,Cameroon,CM,3.987443024,11.6582419,-12,10,no,blue
-5,Kampala,Uganda,UG,0.468074918,32.63649497,-10,20,no,blue
-6,Nairobi,Kenya,KE,-1.202389436,37.03029341,5,-8,yes,red
-7,Addis Ababa, Ethiopia,ET,9.285919336,39.06346956,-12,10,yes,red
-8,Luanda,Angola,AO,-8.712473072,13.28913592,20,28,no,blue
-9,Lusaka,Zambia,ZM,-15.2689775,28.61305536,-12,10,yes,red
-10,Gaborone,Botswana,BW,-24.53897425,26.09667833,5,24,yes,red
-11,Pretoria,South Africa,ZA,-25.68335284,28.34330876,30,-5,yes,red
-12,Bangkok,Thailand,TH,14.363821,100.9610325,-12,10,yes,red
-13,Port Moresby,Papua New Guinea,PG,-9.184029171,148.0391279,-12,10,no,blue
-14,Windhoek,Namibia,NA,-22.72511396,17.28002951,25,28,no,blue
-15,Harare,Zimbabwe,ZW,-17.824858,31.053028,25,28,no,blue
-16,Lilongwe,Malawi,MW,-13.9868379,33.7657833,-10,10,no,blue
-17,Dodoma,Tanzania,TZ,-6.181137922,35.7456836,-10,10,no,blue
-18,Chisinau,Moldova,MD,47.01271599,28.85851755,-10,10,no,blue
-19,Tbilisi,Georgia,GE,41.69745077,44.79989478,-10,10,no,blue
-20,Tashkent,Uzbekistan,UZ,41.29856181,69.24262863,-10,10,no,blue
-21,Manila,Philippines,PH,14.60347354,120.9930931,-10,10,no,blue
-22,Hanoi,Vietnam,VN,21.02780904,105.8321854,-10,10,no,blue
-23,Kigali,Rwanda,RW,-1.944523041,30.06715979,5,-10,no,blue
-24,Mbabane,Eswatini,SZ,-26.32589537,31.14379287,-10,10,no,blue
-25,Accra,Ghana,GH,7.9528,-1.0307,20,20,no,blue
-26,Kinshasa,Democratic Republic of the Congo,CD,-1.7971426906647223,23.627063189815026,5,20,no,green
-27,Dakar,Senegal,SN,14.91160405380541,-14.920685725803216,-10,10,no,green
-28,Wagadugu,Burkina Faso,BF,12.549172060016668,-2.0616955916924695,-10,10,no,green
-29,Yamoussoukro,Côte d'Ivoire,CI,7.889019369521787,-5.846361133432534,10,-10,no,green
-30,Porto-Novo,Benin,BJ,9.322048,2.313138,-10,20,no,green
-31,Lomé,Togo,TG,8.6259,0.8325,0,-10,no,green
-32,Jakarta,Indonesia,ID,-6.2,106.816666,-12,10,no,green
-33,Phnom Penh,Cambodia,KH,11.562108,104.888535,-12,10,no,green
-34,Kathmandu,Nepal,NP,27.700769,85.30014,-12,10,no,green
-35,New Delhi,India,IN,20.593684,78.96288,-12,10,no,green
+Unnamed: 0,capital_name,country_name,country_code,lat_offset,lon_offset,repeat,repeat_color
+0,Atlanta,United States,US,-12,10,no,black
+1,Santo Domingo,Dominican Republic,DO,-12,10,no,blue
+2,Georgetown,Guyana,GY,-12,10,no,blue
+3,Abuja,Nigeria,NG,-12,10,yes,red
+4,Yaounde,Cameroon,CM,-12,10,no,blue
+5,Kampala,Uganda,UG,-10,20,no,blue
+6,Nairobi,Kenya,KE,5,-8,yes,red
+7,Addis Ababa, Ethiopia,ET,-12,10,yes,red
+8,Luanda,Angola,AO,20,28,no,blue
+9,Lusaka,Zambia,ZM,-12,10,yes,red
+10,Gaborone,Botswana,BW,5,24,yes,red
+11,Pretoria,South Africa,ZA,30,-5,yes,red
+12,Bangkok,Thailand,TH,-12,10,yes,red
+13,Port Moresby,Papua New Guinea,PG,-12,10,no,blue
+14,Windhoek,Namibia,,25,28,no,blue
+15,Harare,Zimbabwe,ZW,25,28,no,blue
+16,Lilongwe,Malawi,MW,-10,10,no,blue
+17,Dodoma,Tanzania,TZ,-10,10,no,blue
+18,Chisinau,Moldova,MD,-10,10,no,blue
+19,Tbilisi,Georgia,GE,-10,10,no,blue
+20,Tashkent,Uzbekistan,UZ,-10,10,no,blue
+21,Manila,Philippines,PH,-10,10,no,blue
+22,Hanoi,Vietnam,VN,-10,10,no,blue
+23,Kigali,Rwanda,RW,5,-10,no,blue
+24,Mbabane,Eswatini,SZ,-10,10,no,blue
+25,Accra,Ghana,GH,20,20,no,blue
+26,Kinshasa,Democratic Republic of the Congo,CD,5,20,no,green
+27,Dakar,Senegal,SN,-10,10,no,green
+28,Wagadugu,Burkina Faso,BF,-10,10,no,green
+29,Yamoussoukro,Côte d'Ivoire,CI,10,-10,no,green
+30,Porto-Novo,Benin,BJ,-10,20,no,green
+31,Lomé,Togo,TG,0,-10,no,green
+32,Jakarta,Indonesia,ID,-12,10,no,green
+33,Phnom Penh,Cambodia,KH,-12,10,no,green
+34,Kathmandu,Nepal,NP,-12,10,no,green
+35,New Delhi,India,IN,-12,10,no,green
